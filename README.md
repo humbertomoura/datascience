@@ -1,5 +1,7 @@
 # datascience
 Data Science material for quick learning.
 
-Big Data Pins: https://br.pinterest.com/hjmoura/big-data/
+<strong>Big Data Pins: <strong> https://br.pinterest.com/hjmoura/big-data/
+<strong>Python   Pins: </strong> https://br.pinterest.com/hjmoura/python/
+
 
